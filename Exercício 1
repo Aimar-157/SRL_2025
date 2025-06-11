@@ -1,0 +1,5 @@
+1- Contas de Utilizador para cada funcionário, Pastas partilhadas com permissões específicas, Um serviço de autenticação que obriga os utilizadores a fazer login com credencias próprias.
+2- Não deve aparece nada ,porque só os Addministradores têm acesso a certas imformações.
+3- É para que, se a pessoa for um admin ela tem aceso a coisas que os utilizadores normais não têm. 
+4- O papel do SON aqui é proteger informações, para que o RH não acesse a imformações sobre os Admin.
+5- Um sistema de registro de eventos e tentativas de acesso não autorizado.
